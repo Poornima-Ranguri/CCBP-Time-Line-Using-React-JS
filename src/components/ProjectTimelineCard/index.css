@@ -1,0 +1,14 @@
+.project-heading-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.duartiom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 3px;
+}
